@@ -1,0 +1,304 @@
+{
+  "fleetdata": [
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 1,
+      "carplate": "XC 1581",
+      "fleetnum": "V6W1",
+      "depot": "T",
+      "leftad": "rbxassetid://6134113291",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 2,
+      "carplate": "XC 1592",
+      "fleetnum": "V6W2",
+      "depot": "N",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 3,
+      "carplate": "XC 1603",
+      "fleetnum": "V6W3",
+      "depot": "T",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 4,
+      "carplate": "XC 1634",
+      "fleetnum": "V6W4",
+      "depot": "N",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 5,
+      "carplate": "XC 1665",
+      "fleetnum": "V6W5",
+      "depot": "T",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 6,
+      "carplate": "XC 1696",
+      "fleetnum": "V6W6",
+      "depot": "N",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 7,
+      "carplate": "XC 1727",
+      "fleetnum": "V6W7",
+      "depot": "T",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 8,
+      "carplate": "XC 1748",
+      "fleetnum": "V6W8",
+      "depot": "N",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 9,
+      "carplate": "XC 1816",
+      "fleetnum": "V6W9",
+      "depot": "G",
+      "leftad": "rbxassetid://7016816879",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 10,
+      "carplate": "XC 1849",
+      "fleetnum": "V6W10",
+      "depot": "T",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 11,
+      "carplate": "XC 1893",
+      "fleetnum": "V6W11",
+      "depot": "N",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 12,
+      "carplate": "XC 1947",
+      "fleetnum": "V6W12",
+      "depot": "T",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 13,
+      "carplate": "XC 1981",
+      "fleetnum": "V6W13",
+      "depot": "N",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 14,
+      "carplate": "XC 2092",
+      "fleetnum": "V6W14",
+      "depot": "T",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 15,
+      "carplate": "XC 2118",
+      "fleetnum": "V6W15",
+      "depot": "N",
+      "leftad": "rbxassetid://8005029103",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 16,
+      "carplate": "XC 2127",
+      "fleetnum": "V6W16",
+      "depot": "T",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 17,
+      "carplate": "XC 2202",
+      "fleetnum": "V6W17",
+      "depot": "N",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 18,
+      "carplate": "XC 2271",
+      "fleetnum": "V6W18",
+      "depot": "T",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 19,
+      "carplate": "XC 2319",
+      "fleetnum": "V6W19",
+      "depot": "N",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://7058951525",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusB8L12000",
+      "number": 20,
+      "carplate": "XC 2327",
+      "fleetnum": "V6W20",
+      "depot": "T",
+      "leftad": "rbxassetid://7054846787",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 1,
+      "carplate": "XH 515",
+      "fleetnum": "W6S1",
+      "depot": "M",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 2,
+      "carplate": "XH 583",
+      "fleetnum": "W6S2",
+      "depot": "M",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 3,
+      "carplate": "XP 598",
+      "fleetnum": "W6S3",
+      "depot": "M",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 4,
+      "carplate": "XP 635",
+      "fleetnum": "W6S4",
+      "depot": "M",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 5,
+      "carplate": "XP 689",
+      "fleetnum": "W6S5",
+      "depot": "M",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 6,
+      "carplate": "XP 707",
+      "fleetnum": "W6S6",
+      "depot": "M",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 7,
+      "carplate": "XP 777",
+      "fleetnum": "W6S7",
+      "depot": "H",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 8,
+      "carplate": "XP 6777",
+      "fleetnum": "W6S8",
+      "depot": "H",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 9,
+      "carplate": "XP 6721",
+      "fleetnum": "W6S9",
+      "depot": "H",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 10,
+      "carplate": "XP 8992",
+      "fleetnum": "W6S10",
+      "depot": "N",
+      "leftad": "rbxassetid://8141719689",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8373801085"
+    }
+  ]
+}
